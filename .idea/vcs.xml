@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FoldingDOM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MusicalInteractions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ballet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ballet/diplomi-DiagonalSlideshow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bio-OutdoorsTemplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bio-PreviewContentTransition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bio-SmoothScrollingImageEffects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/career-the-substance-diamonds" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diplomi-ColumnScroll" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diplomi-DiagonalSlideshow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/preporaki-FullImageReveal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/preporaki-LayerMotionSlideshow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects-CrossroadsSlideshow" vcs="Git" />
+  </component>
+</project>
